@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Turning+coffee+into+code☕" alt="Typing SVG" />
 </p>
 
+- 🌱 I'm actively developing my skills in Full-Stack Development, Data Analytics, and a little bit of Game Development.
 - 🎓 I am currently studying Computer Science at the University of Wisconsin-Madison.
 - 👯 I’m looking to collaborate on anything! I'm always looking for new opportunities to learn and grow.
 - ⚡ Fun facts: I'm originally from Turkey! In my free time, I love playing chess ♟, soccer ⚽, video games 🎮, and programming 🖥️.
